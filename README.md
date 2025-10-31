@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements an **A* pathfinding algorithm** for navigating through a 2D maze. The AI uses heuristic-based search with custom cost functions to find the optimal path from a starting position to a goal location.
+This project implements an A* pathfinding algorithm for navigating through a 2D maze. The AI uses heuristic-based search with custom cost functions to find the optimal path from a starting position to a goal location.
 
 ## Authors
 - Hufsah Sandila
